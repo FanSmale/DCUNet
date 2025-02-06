@@ -14,9 +14,9 @@ Results on OpenFWI and SEG datasets show that our method is superior to state-of
 I. This project includes the code implementation of DC-UNet and the comparative experiment InversionNet, DD-Net70，DD-Net，FCNVMB。 In addition, there are corresponding ablation experiments (C-UNet) and anti noise experiments (D-UNet).
 
 II. Corresponding code files for training and validation methods:
-1)model_train.py---------->Training startup file
-2)model_test.py---------->Test startup file
-3)param_config.py---------->Training parameter setting file
-4)path_config.py---------->Path parameter setting file
-5)net---------->Training network structure
-6)func---------->Support files
+1)model_train.py---------->Training startup file;
+2)model_test.py---------->Test startup file;
+3)param_config.py---------->Training parameter setting file;
+4)path_config.py---------->Path parameter setting file;
+5)net---------->Training network structure;
+6)func---------->Support files;
